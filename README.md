@@ -7,4 +7,4 @@ open command prompt for install below :
 - pip install pyperclip
 - pip install pynput
 
-Put file salad.jpg on folder C:\\salad.jpg
+For testing send picture put file salad.jpg on folder C:\\salad.jpg
